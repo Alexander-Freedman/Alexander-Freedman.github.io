@@ -16,13 +16,13 @@
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Alexander-Freedman.github.io">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Alexander-Freedman.github.io","name":"Alexander-Freedman.github.io","url":"https://alexander-freedman.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"Alexander Freedman - TicTacToe"}</script>
     <link rel="stylesheet" href="/assets/css/style.css?v=c840b5c321be65f90834716110cd59b7005bb03b">
   </head>
   <body style="background-color:forestgreen;">
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a>                  Alexander Freedman - TicTacToe</a> <font color="red"></font></h1>
+      
       
 
       <iframe src="https://trinket.io/embed/python3/453bdec874?outputOnly=true&amp;runOption=run&amp;runMode=console" width="100%" height="356" frameborder="10" marginwidth="0" marginheight="0" allowfullscreen=""></iframe>
