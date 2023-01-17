@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=8228fa6ecd36d03309cf4a804ef315ec0f07e3b8">
     
 
 
@@ -28,8 +27,7 @@
   
     <div class="container-lg px-3 my-5 markdown-body" style="
     width: 454px;
-">
-      
+   
       
       
 
