@@ -11,7 +11,6 @@
 
   </head>
   <body style="background-color:forestgreen;">
-    <div class="container-lg px-3 my-5 markdown-body" style="width: 532px;height: 400px;">
       
       
       
