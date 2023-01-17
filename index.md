@@ -31,7 +31,7 @@
       
       
 
-      <iframe src="https://trinket.io/embed/python3/4d0ae2eddd?outputOnly=true&amp;runOption=run" width="100%" height="500" frameborder="1" marginwidth="0" marginheight="0" allowfullscreen="" style="
+      <iframe src="https://trinket.io/embed/python3/7078441f77?outputOnly=true&amp;runOption=run" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="" style="
     width: 350px;
     height: 450px;
 "></iframe>
