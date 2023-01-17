@@ -25,7 +25,7 @@
       
       
 
-      <iframe src="https://trinket.io/embed/python3/453bdec874?outputOnly=true&amp;runOption=run&amp;runMode=console" width="100%" height="356" frameborder="10" marginwidth="0" marginheight="0" allowfullscreen=""></iframe>
+      <iframe src="https://trinket.io/embed/python3/84fa67e24f?outputOnly=true&runOption=run" width="100%" height="356" frameborder="10" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
       
